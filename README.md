@@ -4,15 +4,15 @@ Malaria is still a significant public health issue till date, most especially in
 This project aims to look through the malaria trends in Africa gotten from public datasets which cover malaria occurrence from 2007 to 2017. 
 Through this analysis, we will see the progress made by some African countries and the countries still battling with high burdens.
 
-### Objective
+### Objectives
 Analyse malaria trends across African countries.
 
 Timeframe: 2007–2017
 
 #### Key Questions:
-How have malaria trends evolved?
-Which countries succeeded in elimination?
-Where is the burden still high?
+1. How have malaria trends evolved?
+2. Which countries succeeded in elimination?
+2. Where is the burden still high?
 
 ### Methodology
 Datasets were sourced from a Kaggle dataset aggregated from WHO.
@@ -25,7 +25,7 @@ A lot of columns were irrelevant to the analysis.
 - Focused on confirmed cases by year and country
 - Used Python for exploratory data analysis
 
-*Tools Used: Excel, Python, Looker
+##### Tools Used: Excel, Python, Looker
 
 ### Findings & Insights
 Between 2008 and 2017, Burkina Faso appeared to have one of the highest reported malaria cases and also had the highest malaria incidence rate, meaning that new cases were occurring rapidly within that period.
@@ -52,6 +52,8 @@ There is a need for serious policy intervention by government and stakeholders. 
 The successful elimination of malaria by countries like Algeria and Cabo Verde further proves that a malaria-free Africa is possible.
 
 ### Links
-Data source: https://www.kaggle.com/datasets/lydia70/malaria-in-africa?
+Data source: https://www.kaggle.com/datasets/lydia70/malaria-in-africa
+
 Looker Dashboard: https://lookerstudio.google.com/reporting/f83f4efa-2fe4-411e-82c6-11bb57897d57
+
 Report presentation: https://docs.google.com/presentation/d/1KSXi-oxmbxzTEu2gkvtdh_7c26msrcC64dungs2rfZo/edit?usp=sharing
