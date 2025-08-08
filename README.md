@@ -47,8 +47,7 @@ However, the data was limited in the sense that:
 5. Invest in creating sanitable communities as stagnant water and poor water drainage systems breed mosquitoes, which can lead to high malaria incidence in endemic regions.
 
 ### Conclusion
-The fact that this analysis only covers 2007-2017 data, yet, 8 years later, the malaria burden for countries like Nigeria, Mozambique and DRC has only gotten worse. 
-There is a need for serious policy intervention by government and stakeholders. Lack of sufficient data on the distribution of mosquito nets and antimalarial treatment shows that these factors are not being accounted for as they should. 
+The fact that this analysis only covers 2007-2017 data, yet, 8 years later, the malaria burden for countries like Nigeria, Mozambique and DRC has only gotten worse shows that there is a need for serious policy intervention by government and stakeholders. Lack of sufficient data on the distribution of mosquito nets and antimalarial treatment shows that these factors are not being accounted for as they should. 
 The successful elimination of malaria by countries like Algeria and Cabo Verde further proves that a malaria-free Africa is possible.
 
 ### Links
